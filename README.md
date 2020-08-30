@@ -12,10 +12,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akillamac&show_icons=true" alt="akillamac" /></p>
 
 <p align="center">
-<a href="https://codepen.io/akillamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="akillamac" height="30" width="30" /></a>
+<!--<a href="https://codepen.io/akillamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="akillamac" height="30" width="30" /></a>-->
 <a href="https://dev.to/akillamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akillamac" height="30" width="30" /></a>
 <a href="https://twitter.com/akillamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akillamac" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/akillamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="akillamac" height="30" width="30" /></a>
-<a href="https://codesandbox.com/akillamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="akillamac" height="30" width="30" /></a>
+<!--<a href="https://codesandbox.com/akillamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="akillamac" height="30" width="30" /></a>-->
 <a href="https://medium.com/akillamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="akillamac" height="30" width="30" /></a>
 </p>
